@@ -21,7 +21,7 @@ timezone:
 
 title: Jarek Zawila                          # the main title
 
-tagline: Software engineer, father, live long student  # it will display as the sub-title
+tagline: Software engineer, father, lifelong learner  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
